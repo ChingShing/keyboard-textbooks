@@ -2,7 +2,8 @@
 
 ## 学习路线和学习指导：《方百里钢琴教学法》
 很实用，指出了循序渐进的学习目标和方法，可以说是推荐了从入门到高级的一套已经成熟的钢琴学习体系。学习电子键盘的也可以参考。
-[资源](https://pan.baidu.com/s/1ckti8aleg3gqcySkjsjq7w) 提取码: jcj9
+
+附上[网盘链接](https://pan.baidu.com/s/1ckti8aleg3gqcySkjsjq7w) 提取码: jcj9
 
 ## 学习鉴赏音乐：《听音乐》
 
