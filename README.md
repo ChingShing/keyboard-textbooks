@@ -10,7 +10,4 @@
 ## 学习鉴赏音乐：《听音乐》
 
 ## 观看表演
-<details>
-  <summary>B站有很多演奏可以随时观看，比如：</summary>
-  https://space.bilibili.com/86874419
-</details>
+B站有很多演奏可以随时观看，比如[本仓库作者的主页]<https://space.bilibili.com/86874419>
